@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/apple-website-clone-reactJS/static/css/main.5995db75.css",
+    "main.js": "/apple-website-clone-reactJS/static/js/main.3fc79c8f.js",
+    "static/js/787.1f951856.chunk.js": "/apple-website-clone-reactJS/static/js/787.1f951856.chunk.js",
+    "static/media/HomeSection3Image-MACBOOKPRO.png": "/apple-website-clone-reactJS/static/media/HomeSection3Image-MACBOOKPRO.3dcdef79999f241fb06e.png",
+    "static/media/HomeSection3Image.png-APPLEWATCH.png": "/apple-website-clone-reactJS/static/media/HomeSection3Image.png-APPLEWATCH.ba3d2652070c38131bc9.png",
+    "static/media/HomeSection3Image-IMAC.png": "/apple-website-clone-reactJS/static/media/HomeSection3Image-IMAC.1ec82a5de2607b9cda56.png",
+    "static/media/HomeSection2Image.png": "/apple-website-clone-reactJS/static/media/HomeSection2Image.a4617db0f21d4387b7a3.png",
+    "static/media/HomeSection3Image-TRADEIN.png": "/apple-website-clone-reactJS/static/media/HomeSection3Image-TRADEIN.d936a975a071a4bea320.png",
+    "static/media/HomeSection3Image-IPADPRO.png": "/apple-website-clone-reactJS/static/media/HomeSection3Image-IPADPRO.8a8c34abc0bc27e85717.png",
+    "static/media/HomeSection1Image.png": "/apple-website-clone-reactJS/static/media/HomeSection1Image.4c292093508b6e68d31e.png",
+    "static/media/HomeSection3Image-AIRPODS.png": "/apple-website-clone-reactJS/static/media/HomeSection3Image-AIRPODS.a0458434e42df451977d.png",
+    "index.html": "/apple-website-clone-reactJS/index.html",
+    "static/media/appleLogo.svg": "/apple-website-clone-reactJS/static/media/appleLogo.85945b5c6c5b16eeb56baeab37f79713.svg",
+    "static/media/search.svg": "/apple-website-clone-reactJS/static/media/search.82d3481840537f55a197ec3b7d2e44f5.svg",
+    "static/media/work.svg": "/apple-website-clone-reactJS/static/media/work.5fc6d10b6c3ee58b91b1cd447631ff5e.svg",
+    "main.5995db75.css.map": "/apple-website-clone-reactJS/static/css/main.5995db75.css.map",
+    "main.3fc79c8f.js.map": "/apple-website-clone-reactJS/static/js/main.3fc79c8f.js.map",
+    "787.1f951856.chunk.js.map": "/apple-website-clone-reactJS/static/js/787.1f951856.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5995db75.css",
+    "static/js/main.3fc79c8f.js"
+  ]
+}
