@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Offer-Wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0;
+}
+
+p{
+    font-size: 14px;
+}
+
+a{
+    color: blue;
+}
+
+@media (400px <= width <= 1000px){
+    .Offer-Wrapper{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 10px 20px;
+        width: 100%;
+        text-align: center;
+    }
+
+    p{
+        font-size: 14px;
+    }
+}

@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Main1{
+    padding-bottom: 10px;
+}
+
+.Main1-section{
+    background: #fafafa;
+}
+
+.HomeSection1-Wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 45px 0;
+}
+
+.HomeSection1-Wrapper h1{
+    font-size: 50px;
+}
+
+.HomeSection1-Wrapper p{
+    font-size: 26px;
+}
+
+.HomeSection1-Wrapper img{
+    height: 350px;
+    margin-top: 50px;
+}
+
+.HomeSection-Buttons{
+    margin-top: 15px;
+}
+
+.HomeSection-Buttons a{
+    font-size: 21px;
+    text-decoration: none;
+    color: #06c;
+    margin-inline: 20px;
+}
+
+.HomeSection-Buttons a:hover{
+    text-decoration: underline;
+}

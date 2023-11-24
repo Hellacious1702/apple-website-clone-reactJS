@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Footer-Main{
+    background: #f5f5f7;
+    padding: 1% 17%;
+    
+}
+
+.Footer-Grid-1{
+    color: #909095;
+    font-size: 10px;
+}
+
+.Footer-Grid-1 p{
+    font-size: 12px;
+}
+
+.Footer-Grid-1 a{
+    color: #5c5c5e;
+}
+
+#HR-1{
+    margin-block: 20px;
+}
+
+
+.Footer-Grid-2{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.Footer-Menu{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.Footer-Menu-Wrapper p{
+    font-weight: 600;
+    font-size: 12px;
+}
+
+.Footer-Menus{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-block: 10px;
+}
+.Footer-Menus a{
+    text-decoration: none;
+    color: #5c5c5e;
+    font-size: 12px;
+}
+
+.Footer-Menus a:hover{
+    text-decoration: underline;
+}
+
+
+
+.Footer-Grid-3{
+    color: #5c5c5e;
+    display: flex;
+    flex-direction: column;
+}
+
+.Footer-Grid-3 p{
+    font-size: 12px;
+}
+
+.Footer-Grid-3-Content-Wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Footer-Grid-3-Menu-Wrapper{
+    display: flex;
+    align-items: center;
+}
+
+.Footer-Grid-3-Menu{
+    display: flex;
+    align-items: center;
+}
+
+.Footer-Grid-3-Menu a{
+    text-decoration: none;
+    margin-inline: 10px;
+    font-size: 12px;
+    color: #515153;
+}
+
+.Footer-Grid-3-Menu a:hover{
+    text-decoration: underline;
+}
+
+.Footer-Grid-3-Menu hr{
+    height: 20px;
+}
+
+#HR-2{
+    margin-block: 10px;
+}

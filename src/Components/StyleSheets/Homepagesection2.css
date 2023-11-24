@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Main2{
+    padding-bottom: 10px;
+}
+
+.Main2-section{
+    background: #000000;
+}
+
+.HomeSection2-Wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 45px;
+}
+
+.HomeSection2-Wrapper h1{
+    font-size: 50px;
+    color: white;
+}
+
+.HomeSection2-Wrapper p{
+    font-size: 26px;
+    color: white;
+}
+
+.HomeSection2-Wrapper img{
+    height: 500px;
+    margin-top: 30px;
+}
+
+.HomeSection-Buttons{
+    margin-top: 15px;
+}
+
+.HomeSection-Buttons a{
+    font-size: 21px;
+    text-decoration: none;
+    color: #06c;
+    margin-inline: 20px;
+}
+
+.HomeSection-Buttons a:hover{
+    text-decoration: underline;
+}
