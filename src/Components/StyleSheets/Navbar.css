@@ -35,3 +35,24 @@
     height: 25px;
     margin-inline: 20px;
 }
+
+.Nav-Buttons img{
+    fill: white;
+}
+
+@media (400px <= width <= 1000px){
+    .Nav-Menus{
+        display: none;
+    }
+
+    .Nav-Wrapper{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .Nav-Wrapper img{
+        height: 27px;
+        margin-inline: 15px;
+    }
+}

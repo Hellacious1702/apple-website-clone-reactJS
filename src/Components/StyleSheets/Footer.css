@@ -107,3 +107,10 @@
 #HR-2{
     margin-block: 10px;
 }
+
+@media (400px <= width <= 1000px){
+    .Footer-Main{
+        background: #f5f5f7;
+        padding: 2% 4%;
+    }
+}

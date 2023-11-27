@@ -64,3 +64,41 @@
     background-color: black;
     color: #ffffff;
 }
+
+@media (400px <= width <= 1000px){
+
+    .Main3-section-grid-wrapper{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .HomeSection3-Wrapper{
+        background: #fafafa;
+        width: 100%;
+    }
+
+    .HomeSection3-Wrapper h1{
+        font-size: 32px;
+    }
+    
+    .HomeSection3-Wrapper p{
+        font-size: 16px;
+    }
+
+    .HomeSection3-Wrapper img{
+        height: 200px;
+        margin-top: 50px;
+    }
+
+    .HomeSection-Buttons{
+        margin-top: 15px;
+    }
+    
+    .HomeSection-Buttons a{
+        font-size: 16px;
+        text-decoration: none;
+        color: #06c;
+        margin-inline: 20px;
+    }
+    
+}

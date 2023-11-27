@@ -46,3 +46,29 @@
 .HomeSection-Buttons a:hover{
     text-decoration: underline;
 }
+
+@media (400px <= width <= 1000px){
+    .HomeSection1-Wrapper h1{
+        font-size: 32px;
+    }
+    
+    .HomeSection1-Wrapper p{
+        font-size: 16px;
+    }
+
+    .HomeSection1-Wrapper img{
+        height: 150px;
+        margin-top: 50px;
+    }
+
+    .HomeSection-Buttons{
+        margin-top: 15px;
+    }
+    
+    .HomeSection-Buttons a{
+        font-size: 16px;
+        text-decoration: none;
+        color: #06c;
+        margin-inline: 20px;
+    }
+}

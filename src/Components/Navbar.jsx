@@ -2,7 +2,7 @@ import React from 'react'
 import './StyleSheets/Navbar.css'
 import AppleLogo from './Assets/Icons/appleLogo.svg'
 
-import SearchIcon from './Assets/Icons/search.svg'
+import SearchIcon from './Assets/Icons/search_FILL0_wght400_GRAD0_opsz24.svg'
 import CartIcon from './Assets/Icons/work.svg'
 
 const Navbar = () => {
