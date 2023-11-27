@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/apple-website-clone-reactJS/static/css/main.5995db75.css",
-    "main.js": "/apple-website-clone-reactJS/static/js/main.3fc79c8f.js",
+    "main.css": "/apple-website-clone-reactJS/static/css/main.22ca1b75.css",
+    "main.js": "/apple-website-clone-reactJS/static/js/main.00368630.js",
     "static/js/787.1f951856.chunk.js": "/apple-website-clone-reactJS/static/js/787.1f951856.chunk.js",
     "static/media/HomeSection3Image-MACBOOKPRO.png": "/apple-website-clone-reactJS/static/media/HomeSection3Image-MACBOOKPRO.3dcdef79999f241fb06e.png",
     "static/media/HomeSection3Image.png-APPLEWATCH.png": "/apple-website-clone-reactJS/static/media/HomeSection3Image.png-APPLEWATCH.ba3d2652070c38131bc9.png",
@@ -13,14 +13,14 @@
     "static/media/HomeSection3Image-AIRPODS.png": "/apple-website-clone-reactJS/static/media/HomeSection3Image-AIRPODS.a0458434e42df451977d.png",
     "index.html": "/apple-website-clone-reactJS/index.html",
     "static/media/appleLogo.svg": "/apple-website-clone-reactJS/static/media/appleLogo.85945b5c6c5b16eeb56baeab37f79713.svg",
-    "static/media/search.svg": "/apple-website-clone-reactJS/static/media/search.82d3481840537f55a197ec3b7d2e44f5.svg",
+    "static/media/search_FILL0_wght400_GRAD0_opsz24.svg": "/apple-website-clone-reactJS/static/media/search_FILL0_wght400_GRAD0_opsz24.82d3481840537f55a197ec3b7d2e44f5.svg",
     "static/media/work.svg": "/apple-website-clone-reactJS/static/media/work.5fc6d10b6c3ee58b91b1cd447631ff5e.svg",
-    "main.5995db75.css.map": "/apple-website-clone-reactJS/static/css/main.5995db75.css.map",
-    "main.3fc79c8f.js.map": "/apple-website-clone-reactJS/static/js/main.3fc79c8f.js.map",
+    "main.22ca1b75.css.map": "/apple-website-clone-reactJS/static/css/main.22ca1b75.css.map",
+    "main.00368630.js.map": "/apple-website-clone-reactJS/static/js/main.00368630.js.map",
     "787.1f951856.chunk.js.map": "/apple-website-clone-reactJS/static/js/787.1f951856.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5995db75.css",
-    "static/js/main.3fc79c8f.js"
+    "static/css/main.22ca1b75.css",
+    "static/js/main.00368630.js"
   ]
 }
